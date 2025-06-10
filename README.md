@@ -121,8 +121,11 @@ Este proyecto tiene como objetivos principales:
 
 - Portada con botón de retorno.
 - Gráficos dinámicos.
+- graficos con scrip de python
+![image](https://github.com/user-attachments/assets/a46531ba-6000-4399-b806-7a603564c077)
 - Filtro por países (AR, BR, CL, CO, MX, PE).
 - Cambio de visualizaciones según el filtro.
+![image-1](https://github.com/user-attachments/assets/91d081f2-097e-4bad-b090-dbe987a00a38)
 
 ---
 
