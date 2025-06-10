@@ -120,9 +120,14 @@ Este proyecto tiene como objetivos principales:
 ## 📈 Análisis del Dashboard
 
 - Portada con botón de retorno.
+- Grafico todos con scrip de python
+![image](https://github.com/user-attachments/assets/b5b1b79a-f08c-4419-acf9-a93c92c780c7)
+
 - Gráficos dinámicos.
 - Filtro por países (AR, BR, CL, CO, MX, PE).
 - Cambio de visualizaciones según el filtro.
+![image](https://github.com/user-attachments/assets/96dc13e5-f639-42b4-8990-28fdd07d2fee)
+
 
 ---
 
