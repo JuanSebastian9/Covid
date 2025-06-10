@@ -1,7 +1,7 @@
 # Proyecto Integrador Módulo 4
 
 **Autor:** Juan Sebastian Barreto Benavides  
-**Email:** Jsbarreto.sparking@gmail.com  
+**Email:** benavidesjuancho922@gmail.com  
 **Cohorte:** DA-FT13  
 **Fecha de entrega:** 12/05/2025  
 **Institución:** Farmotudo
